@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
+  <a href="https://app.hackthebox.com/users/1539865">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
+  </a>
+
   <a href="https://hackerone.com/zavxvj">
     <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white">
   </a>
