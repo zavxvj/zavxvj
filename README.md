@@ -5,7 +5,6 @@
 <div id="personal-info" align="center">
 
   <h2>João Vitor Vaz 🇩🇪🇫🇷🇺🇸🇧🇷</h2>
-  <p><b>Security Engineer</b></p>
 
   <p>
     <a href="https://www.linkedin.com/in/joao-vitor-svaz/">LinkedIn</a>
