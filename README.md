@@ -5,11 +5,7 @@
 <div id="personal-info" align="center">
 
   <h2>João Vitor Vaz 🇩🇪🇫🇷🇺🇸🇧🇷</h2>
-  <p><b>IT Security Engineer</b></p>
-
-  <p>
-    Cloud Security •  Application Security •  Penetration Testing •  Security Operations
-  </p>
+  <p><b>Security Engineer</b></p>
 
   <p>
     <a href="https://www.linkedin.com/in/joao-vitor-svaz/">LinkedIn</a>
